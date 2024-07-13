@@ -4,6 +4,12 @@
 This project integrates a secure Password Lock system with Keypad and Bluetooth functionality, and a Home Automation system featuring a Dual Axis Solar Tracker. 
 Created using `PlatformIO` in VSCode.
 
+> [!NOTE]
+> For complete concept and documentation of this project, please refer to the links below.
+> [Project Document](https://drive.google.com/drive/folders/1HzYXT0tZSO2F00DSRk3NjnsSb-7ay1pU?usp=drive_link)
+> [Project Photos](https://drive.google.com/drive/folders/1Ntvfde9Eg7RpJcGE7CWHzyPh1vowRfoZ?usp=drive_link)
+> [Project Video](https://drive.google.com/drive/folders/1u_saFl_buopuT4n0SX_CQjiXXR-XfeTh?usp=drive_link)
+
 ### Passcode Lock with Keypad and Bluetooth
 
 #### Components:
